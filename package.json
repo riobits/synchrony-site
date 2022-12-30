@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "dayjs": "1.11.6",
-    "deobfuscator": "2.2.0",
+    "deobfuscator": "2.4.1",
     "file-saver": "2.0.5",
     "monaco-editor": "0.32.1"
   }
