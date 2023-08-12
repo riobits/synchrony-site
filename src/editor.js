@@ -24,7 +24,7 @@ const editor = monaco.editor.create(document.getElementById('editor'), {
 
   tabSize: 4,
   insertSpaces: true,
-  foldingMaximumRegions: 50000,
+  foldingMaximumRegions: 100000,
 })
 
 export default editor
